@@ -46,8 +46,9 @@ L'ensemble de la plateforme SOC est déployé et orchestré via **Docker/Docker-
 | **OpenCTI** | **Threat Intelligence (CTI)** | Centralisation et visualisation des IOCs (Indicators of Compromise), cartographie de la menace via le framework MITRE ATT&CK. |
 | **Docker / Portainer** | **Orchestration & Administration** | Déploiement rapide et gestion des conteneurs pour garantir l'homogénéité de l'environnement applicatif. |
 
-
-
+<p align="center">
+<img width="650" src="https://github.com/tescalon/Mini-SOC-open-source/blob/main/Architecture%20r%C3%A9elle.png" alt="Architecture réelle" />
+</p>
 ---
 
 ## ✅ Compétences Démontrées
