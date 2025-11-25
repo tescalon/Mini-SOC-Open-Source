@@ -46,6 +46,8 @@ L'ensemble de la plateforme SOC est déployé et orchestré via **Docker/Docker-
 | **OpenCTI** | **Threat Intelligence (CTI)** | Centralisation et visualisation des IOCs (Indicators of Compromise), cartographie de la menace via le framework MITRE ATT&CK. |
 | **Docker / Portainer** | **Orchestration & Administration** | Déploiement rapide et gestion des conteneurs pour garantir l'homogénéité de l'environnement applicatif. |
 
+
+
 ---
 
 ## ✅ Compétences Démontrées
@@ -59,3 +61,7 @@ Ce projet couvre des aspects critiques de la Cybersécurité et du GRC, valorisa
 * **Threat Intelligence :** Intégration et utilisation de la CTI via OpenCTI pour contextualiser les attaques.
 
 Ce lab sert de base pour l'étude et l'application des procédures de sécurité, un pilier essentiel du métier de Chef de Projet ou d'Auditeur GRC.
+
+---
+
+Le projet est actuellement en cours de réalisation. La documentation détaillée de l'architecture, de la configuration et des analyses de sécurité sera mise à jour et publiée dans les prochains jours / semaines / mois.
