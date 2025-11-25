@@ -61,7 +61,7 @@ Ce projet couvre des aspects critiques de la Cybersécurité et du GRC, valorisa
 * **Gestion des Incidents :** Utilisation des plateformes TheHive et Cortex pour l'investigation structurée et la prise de décision.
 * **Threat Intelligence :** Intégration et utilisation de la CTI via OpenCTI pour contextualiser les attaques.
 
-Ce lab sert de base pour l'étude et l'application des procédures de sécurité, un pilier essentiel du métier de Chef de Projet ou d'Auditeur GRC.
+Ce lab sert de base pour l'étude et l'application des procédures de sécurité, un pilier essentiel pour un métier dans la cybersécurité ( que ça soit dans la sécurité défensive ou la GRC).
 
 ---
 
