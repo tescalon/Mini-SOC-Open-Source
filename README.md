@@ -82,7 +82,7 @@ cd ../node-intelligence-i7
 docker compose up -d
 ```
 ---
-## 💡 Compétences Validées
+## ✅ Compétences Démontrées
 * **Architecture** : Conception distribuée et segmentation réseau.
 * **SecOps** : Maîtrise de la chaîne Elastic Stack / TheHive / MISP.
 * **Ingénierie** : Optimisation Docker et gestion des pipelines de logs (Logstash).
