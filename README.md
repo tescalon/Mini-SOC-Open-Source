@@ -5,7 +5,7 @@
 [![Focus Technique](https://img.shields.io/badge/Focus-Cybers%C3%A9curit%C3%A9%20Avanc%C3%A9-red)](./documentation/rapport_technique.md)
 
 
-## 🎯 Objectif
+## Objectif
 
 Ce projet vise à concevoir et opérer une chaîne de sécurité défensive (Blue Team) complète dans un environnement contraint. L'objectif est de simuler un **SOC d'entreprise** capable de traiter un incident de bout en bout : de la détection d'une anomalie réseau à l'enrichissement via Threat Intelligence.
 
@@ -13,7 +13,7 @@ L'infrastructure repose sur une architecture **distribuée et conteneurisée**, 
 
 ---
 
-## 🔄 Flux Opérationnel
+## Flux Opérationnel
 
 Le laboratoire est conçu pour orchestrer le cycle de vie complet d'une alerte de sécurité.
 
@@ -34,7 +34,7 @@ Le laboratoire est conçu pour orchestrer le cycle de vie complet d'une alerte d
 
 ---
 
-## 🏗️ Conception de l'Infrastructure (Matériel & Stack)
+## Conception de l'Infrastructure (Matériel & Stack)
 
 Pour pallier les limitations matérielles, les services sont répartis selon leur profil de consommation (CPU-bound vs I/O-bound).
 
@@ -45,7 +45,7 @@ Pour pallier les limitations matérielles, les services sont répartis selon leu
 
 ---
 
-## 📸 Preuves & Reporting
+## Preuves & Reporting
 
 Les captures ci-dessous illustrent le traitement d'un scénario "Brute Force SSH".
 
@@ -56,7 +56,7 @@ Les captures ci-dessous illustrent le traitement d'un scénario "Brute Force SSH
 
 ---
 
-## 🚀 Démarrage Rapide
+## Démarrage Rapide
 
 L'installation est automatisée via Docker Compose, mais nécessite une configuration réseau préalable.
 
@@ -82,7 +82,7 @@ cd ../node-intelligence-i7
 docker compose up -d
 ```
 ---
-## ✅ Compétences Démontrées
+## Compétences Démontrées
 * **Architecture** : Conception distribuée et segmentation réseau.
 * **SecOps** : Maîtrise de la chaîne Elastic Stack / TheHive / MISP.
 * **Ingénierie** : Optimisation Docker et gestion des pipelines de logs (Logstash).
